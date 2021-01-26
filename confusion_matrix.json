@@ -1,0 +1,1 @@
+{"confusion_matrix": [[10, 0, 0, 0, 0], [0, 10, 0, 0, 0], [0, 0, 10, 0, 0], [0, 0, 0, 10, 0], [0, 0, 0, 0, 10]], "labels": ["business", "entertainment", "politics", "sport", "tech"], "type": "multi_class", "all_labels": ["business", "entertainment", "politics", "sport", "tech"]}
